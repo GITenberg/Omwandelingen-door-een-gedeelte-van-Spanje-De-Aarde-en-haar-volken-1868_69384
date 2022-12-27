@@ -1,0 +1,51 @@
+_repo: Omwandelingen-door-een-gedeelte-van-Spanje-De-Aarde-en-haar-volken-1868_69384
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Doré, Gustave
+    aliases:
+    - Dore, Gustave
+    - Doré, Louis Christophe Paul Gustave
+    - Doré, Louis Auguste Gustave
+    - Dorè, Gustave
+    birthdate: 1832
+    deathdate: 1883
+    gutenberg_agent_id: '1896'
+    url: http://www.gutenberg.org/2009/agents/1896
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Gustave_Dor%C3%A9
+    - https://en.wikipedia.org/wiki/Gustave_Doré
+creator:
+  author:
+    agent_name: Davillier, Ch. (Charles), baron
+    aliases:
+    - Davillier, Charles, baron
+    - Davillier, Jean Charles, baron
+    - Davillier, Jean-Charles
+    birthdate: 1823
+    deathdate: 1883
+    gutenberg_agent_id: '55235'
+    url: http://www.gutenberg.org/2009/agents/55235
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Jean_Charles_Davillier
+    - https://fr.wikipedia.org/wiki/Charles_Davillier
+description: ''
+gutenberg_issued: '2022-11-19'
+identifiers:
+  gutenberg: '69384'
+language: nl
+pgterms:marc905: 20060205133926various
+pgterms:marc906: '1918'
+pgterms:marc907: NL
+production_note: Jeroen Hellingman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net/ for Project Gutenberg
+publication_note: 'Netherlands: H. D. Tjeenk Willink & Zn.,1918.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spain -- Description and travel'
+- !lcc 'DP'
+- GITenberg
+title: "Omwandelingen door een gedeelte van Spanje\r\nDe Aarde en haar volken, 1868"
+url: http://www.gutenberg.org/ebooks/69384
