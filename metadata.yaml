@@ -15,6 +15,9 @@ contributor:
     wikipedia:
     - https://fr.wikipedia.org/wiki/Gustave_Dor%C3%A9
     - https://en.wikipedia.org/wiki/Gustave_Doré
+covers:
+- cover_type: archival
+  image_path: 69384-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Davillier, Ch. (Charles), baron
@@ -30,6 +33,8 @@ creator:
     - https://en.wikipedia.org/wiki/Jean_Charles_Davillier
     - https://fr.wikipedia.org/wiki/Charles_Davillier
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69384#Omwandelingen-door-een-gedeelte-van-Spanje-De-Aarde-en-haar-volken-1868
 gutenberg_issued: '2022-11-19'
 identifiers:
   gutenberg: '69384'
